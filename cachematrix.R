@@ -1,3 +1,6 @@
+## The following shows the makeCacheMatrix and cacheSolve functions, which the first  creates a special "matrix" object that  can cache its inverse
+## and the second calculates the inverse matrix returned by makeCacheMatrix().
+
 #--------------------makeCacheMatrix-----------------------#
 ## This function creates a special "matrix" object that can cache its inverse.
 
